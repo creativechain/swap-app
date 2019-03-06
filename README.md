@@ -25,12 +25,12 @@ Fill inputs with your account's @username and masterkey. Click on Login button.
 ## Wallet.dat paths
 This is the paths of common wallet.dat files
 #### Creativechain Platform
-  - Linux: `home/mysuser/.creativechain-platform/bin/wallet.dat
-  - MacOS: `home/mysuser/.creativechain-platform/bin/wallet.dat
-  - Windows: `C:\Users\myuser\AppData\Roaming\Creativechain\bin\wallet.dat
+  - Linux: `home/mysuser/.creativechain-platform/bin/wallet.dat`
+  - MacOS: `home/mysuser/.creativechain-platform/bin/wallet.dat`
+  - Windows: `C:\Users\myuser\AppData\Roaming\Creativechain\bin\wallet.dat`
   
 
 #### Creativecoin QT - creativecoind
-  - Linux: `home/mysuser/.creativecoin/wallet.dat
-  - MacOS: `home/mysuser/.creativecoin/wallet.dat
-  - Windows: `C:\Users\myuser\AppData\Roaming\Creativecoin\wallet.dat
+  - Linux: `home/mysuser/.creativecoin/wallet.dat`
+  - MacOS: `home/mysuser/.creativecoin/wallet.dat`
+  - Windows: `C:\Users\myuser\AppData\Roaming\Creativecoin\wallet.dat`
