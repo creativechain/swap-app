@@ -4,7 +4,7 @@
  - For [Windows](https://github.com/creativechain/swap-app/releases/download/1.0/creaswap-windows-x64-1.0.exe)
  - For [MacOS](https://github.com/creativechain/swap-app/releases/download/1.0/creacwap-osx-1.0.zip)
  - For [Debian/Ubuntu](https://github.com/creativechain/swap-app/releases/download/1.0/creaswap-debian-x64-1.0.deb)
- - for [Other Linux](https://github.com/creativechain/swap-app/releases/download/1.0/creaswap-linux-generic-x64-1.0.tar.gz)
+ - For [Other Linux](https://github.com/creativechain/swap-app/releases/download/1.0/creaswap-linux-generic-x64-1.0.tar.gz)
 
 ## How to use
 
@@ -25,12 +25,12 @@ Fill inputs with your account's @username and masterkey. Click on Login button.
 ## Wallet.dat paths
 This is the paths of common wallet.dat files
 #### Creativechain Platform
-  - Linux: `home/mysuser/.creativechain-platform/bin/wallet.dat`
-  - MacOS: `home/mysuser/.creativechain-platform/bin/wallet.dat`
+  - Linux: `/home/mysuser/.creativechain-platform/bin/wallet.dat`
+  - MacOS: `/home/mysuser/.creativechain-platform/bin/wallet.dat`
   - Windows: `C:\Users\myuser\AppData\Roaming\Creativechain\bin\wallet.dat`
   
 
 #### Creativecoin QT - creativecoind
-  - Linux: `home/mysuser/.creativecoin/wallet.dat`
-  - MacOS: `home/mysuser/.creativecoin/wallet.dat`
+  - Linux: `/home/mysuser/.creativecoin/wallet.dat`
+  - MacOS: `/home/mysuser/.creativecoin/wallet.dat`
   - Windows: `C:\Users\myuser\AppData\Roaming\Creativecoin\wallet.dat`
